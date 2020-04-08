@@ -1,0 +1,9 @@
+D:\C#_workspace\PathFinder\PathFinder\bin\Release\PathFinder.exe.config
+D:\C#_workspace\PathFinder\PathFinder\bin\Release\PathFinder.exe
+D:\C#_workspace\PathFinder\PathFinder\bin\Release\PathFinder.pdb
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.MainForm.resources
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.Properties.Resources.resources
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.ResultForm.resources
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.csproj.GenerateResource.cache
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.exe
+D:\C#_workspace\PathFinder\PathFinder\obj\Release\PathFinder.pdb
